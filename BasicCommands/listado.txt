@@ -1,0 +1,18 @@
+total 112140
+drwxrwxr-x 3 ezapataq ezapataq      4096 Jun  9 17:45 .
+drwxrwxr-x 3 ezapataq ezapataq      4096 Jun  9 16:58 ..
+-rw-rw-r-- 1 ezapataq ezapataq   9574885 Jun  9 17:31 2015.csv
+-rw-rw-r-- 1 ezapataq ezapataq      1793 Jun  9 17:43 Commands.md
+-rw-rw-r-- 1 ezapataq ezapataq 105226710 Jun  9 17:19 datos.csv
+-rw-rw-r-- 1 ezapataq ezapataq      1834 Jun  9 17:18 generate_large_csv.py
+-rw-rw-r-- 1 ezapataq ezapataq         0 Jun  9 17:45 listado.txt
+drwxrwxr-x 5 ezapataq ezapataq      4096 Jun  9 17:18 .venv
+total 112144
+drwxrwxr-x 3 ezapataq ezapataq      4096 Jun  9 17:45 .
+drwxrwxr-x 3 ezapataq ezapataq      4096 Jun  9 16:58 ..
+-rw-rw-r-- 1 ezapataq ezapataq   9574885 Jun  9 17:31 2015.csv
+-rw-rw-r-- 1 ezapataq ezapataq      2543 Jun  9 17:46 Commands.md
+-rw-rw-r-- 1 ezapataq ezapataq 105226710 Jun  9 17:19 datos.csv
+-rw-rw-r-- 1 ezapataq ezapataq      1834 Jun  9 17:18 generate_large_csv.py
+-rw-rw-r-- 1 ezapataq ezapataq       521 Jun  9 17:45 listado.txt
+drwxrwxr-x 5 ezapataq ezapataq      4096 Jun  9 17:18 .venv
