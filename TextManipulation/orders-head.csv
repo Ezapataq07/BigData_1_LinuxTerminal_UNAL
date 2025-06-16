@@ -1,0 +1,11 @@
+Order ID;Order Date;Customer Name;City;Country;Region;Segment;Ship Date;Ship Mode;State
+BN-2011-7407039;1/01/11;Ruby Patel;Stockholm;Sweden;North;Home Office;5/01/11;Economy Plus;Stockholm
+AZ-2011-9050313;3/01/11;Summer Hayward;Southport;United Kingdom;North;Consumer;7/01/11;Economy;England
+AZ-2011-6674300;4/01/11;Devin Huddleston;Valence;France;Central;Consumer;8/01/11;Economy;Auvergne-Rhne-Alpes
+BN-2011-2819714;4/01/11;Mary Parker;Birmingham;United Kingdom;North;Corporate;9/01/11;Economy;England
+AZ-2011-617423;5/01/11;Daniel Burke;Echirolles;France;Central;Home Office;7/01/11;Priority;Auvergne-Rhne-Alpes
+AZ-2011-2918397;7/01/11;Fredrick Beveridge;La Seyne-sur-Mer;France;Central;Corporate;8/01/11;Priority;Provence-Alpes-Cte d'Azur
+BN-2011-3248724;8/01/11;Archer Hort;Toulouse;France;Central;Consumer;14/01/11;Economy;Languedoc-Roussillon-Midi-Pyrnes
+AZ-2011-6712797;11/01/11;Evie Flockhart;Genoa;Italy;South;Consumer;16/01/11;Economy;Liguria
+AZ-2011-4827146;11/01/11;Faith Greenwood;Vienna;Austria;Central;Consumer;15/01/11;Economy;Vienna
+AZ-2011-6439906;11/01/11;Summer Hayward;Murcia;Spain;South;Consumer;15/01/11;Economy;Murcia
